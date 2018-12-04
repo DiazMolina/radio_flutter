@@ -1,6 +1,6 @@
 # radio_flutter
 
-![Screenshot](radio.png)
+![Screenshot](radio.PNG)
 
 ## Getting Started
 
